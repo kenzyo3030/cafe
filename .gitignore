@@ -1,1 +1,10 @@
+# Folder yang tidak perlu disimpan di Git
 node_modules
+dist
+.vscode
+.env
+*.log
+
+# Sistem & Editor
+.DS_Store
+Thumbs.db
